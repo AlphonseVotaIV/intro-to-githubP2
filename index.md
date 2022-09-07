@@ -12,8 +12,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-```
+
 - [X] Add text
 - [X] Display image of Peter Griffin
 - [X] Show console commands
-```
